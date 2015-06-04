@@ -1,1 +1,6 @@
-{  "directory": "app/bower_components"}
+{
+  "directory": "app/bower_components"
+  "proxy" : "http://localhost:8081",
+  "https-proxy" : "http://localhost:8081",
+  "strict-ssl": false
+}
